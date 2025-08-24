@@ -1,0 +1,12 @@
+// 元数据区
+版本号:1.0.0
+维护者:ZYT
+更新时间:2025-08-24
+
+//词条
+Reiner:莱纳
+Reiner Braun:莱纳布朗
+Braun:布朗
+Eren:艾伦
+Eren Yeager:艾伦耶格尔
+Yeager:耶格尔
