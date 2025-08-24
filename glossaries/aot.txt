@@ -1,5 +1,5 @@
 // 元数据区
-版本号:1.0.0
+版本号:1.0.1
 维护者:ZYT
 更新时间:2025-08-24
 
@@ -40,3 +40,18 @@ Cart Titan:车力巨人
 War Hammer Titan:战锤巨人
 Scout Regiment:调查兵团
 omni-directional mobility gear:立体机动装置
+Ymir:尤弥尔
+Krista：克里斯塔
+Lenz：兰斯
+Historia：希斯特利亚
+Reiss：雷伊斯
+Levi：利威尔
+Falco：法尔科
+Grice：格里斯
+Gabi：贾碧
+Hange：韩吉 
+Zoë：佐伊
+Marco：马可
+Bott：波特
+Sasha：萨沙
+Blouse：布劳斯
